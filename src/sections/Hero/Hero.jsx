@@ -50,8 +50,8 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          With a passion for developing modern React web apps for commercial
-          businesses.
+        Hey there! I'm Keegan, a front-end developer passionate about crafting sleek and user-friendly websites. With experience in HTML, CSS, and JavaScript, 
+        I specialize in building responsive and engaging web experiences.
         </p>
         <a href={CV} download>
           <button className="hover">CV Download</button>

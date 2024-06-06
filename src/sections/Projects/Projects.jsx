@@ -2,7 +2,6 @@ import styles from './ProjectsStyles.module.css';
 import viberr from '../../assets/viberr.png';
 import freshBurger from '../../assets/fresh-burger.png';
 import hipsster from '../../assets/hipsster.png';
-import fitLift from '../../assets/fitlift.png';
 import ProjectCard from '../../common/ProjectCard';
 
 function Projects() {
@@ -14,19 +13,19 @@ function Projects() {
           src={viberr}
           link="https://github.com/Ade-mir/company-landing-page-2"
           h3="Project 1"
-          p="Streaming App"
+          p="Description"
         />
         <ProjectCard
           src={freshBurger}
           link="https://github.com/Ade-mir/company-landing-page-2"
           h3="Project 2"
-          p="Hamburger Restaurant"
+          p="Description"
         />
         <ProjectCard
           src={hipsster}
           link="https://github.com/Ade-mir/company-landing-page-2"
           h3="Project 3"
-          p="Glasses Shop"
+          p="Description"
         />
       </div>
     </section>

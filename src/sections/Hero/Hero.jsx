@@ -50,7 +50,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-        Hey there! I'm Keegan, a front-end developer passionate about crafting sleek and user-friendly websites. With experience in HTML, CSS, and JavaScript, 
+        Hi there! I'm Keegan, a front-end developer passionate about crafting sleek and user-friendly websites. With experience in HTML, CSS, and JavaScript, 
         I specialize in building responsive and engaging web experiences.
         </p>
         <a href={CV} download>

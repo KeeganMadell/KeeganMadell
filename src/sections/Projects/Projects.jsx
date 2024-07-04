@@ -1,6 +1,5 @@
 import styles from './ProjectsStyles.module.css';
 import viberr from '../../assets/viberr.png';
-import freshBurger from '../../assets/fresh-burger.png';
 import hipsster from '../../assets/hipsster.png';
 import ProjectCard from '../../common/ProjectCard';
 
@@ -16,15 +15,9 @@ function Projects() {
           p="Description"
         />
         <ProjectCard
-          src={freshBurger}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Project 2"
-          p="Description"
-        />
-        <ProjectCard
           src={hipsster}
           link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Project 3"
+          h3="Project 2"
           p="Description"
         />
       </div>
